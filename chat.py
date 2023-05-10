@@ -1,6 +1,6 @@
 import openai
 # Indica el API Key
-openai.api_key = "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"
+openai.api_key = ""
 # Uso de ChapGPT en Python
 model_engine = "text-davinci-003"
 prompt = "la suma de 5 mas 5"
